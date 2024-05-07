@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bhanukart</title>
+    <script src="https://kit.fontawesome.com/1f51851928.js" ></script>
+    <link rel="stylesheet" href="project1pratinik.css">
+  </head>
+  <body>
+    <section id="header">
+        <a href="#"> <img src="Bhanukart.png" alt="logo"></a>
+        <div>
+           <ul id="navbar">
+              <li><a class="active" href="project1pratinik.html">HOME</a></li>
+              <li><a href="style.html">SHOP</a></li>
+              <li> <a href="About.html">ABOUT</a></li>
+              <li> <a href="CONTACT.html">CONTACT</a></li>
+              <li> <a href="#"><i class="fa-solid fa-bag-shopping"></i></a></li>
+           </ul>
+        </div> 
+    </section>
+    <section id="hero">
+        <h4>Trade-in-offer</h4>
+        <h2>Super value deals </h2>
+        <h1>On all product</h1>
+        <p>Save more with coupans upto 70% off!!</p>
+        <button> Shop Now</button>
+    </section>
+    <section id="feature" class="section-p1">
+    <div class="fe-box">
+        <img src="f1.png"> 
+        <h6>Fast Shipping</h6>
+    </div>
+    <div class="fe-box">
+        <img src="f2.png"> 
+        <h6>Online Order</h6>
+    </div>
+    <div class="fe-box">
+        <img src="f3.png"> 
+        <h6>Save Money</h6>
+    </div>
+    <div class="fe-box">
+        <img src="f4.png"> 
+        <h6>Promotion</h6>
+    </div>
+    <div class="fe-box">
+        <img src="f5.png"> 
+        <h6>Happy Shopping</h6>
+    </div>
+
+    </section>
+<section id="product1" class="section-p1">
+
+    <h2>FEATURED PRODUCT</h2>
+    <p>Summer collection</p>
+     
+    <div class="pro-container">
+        <div class="pro">
+            <img src="product1.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product2.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product3.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product 4.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product5.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product6.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="productnew.jpg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="n3.jpg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+        
+    </div>
+
+
+
+
+
+
+</section>
+
+<section id="banner" class="section-m1">
+<h4>Repair servcies</h4>
+<h2>Up to<span> 70% off </span> - All t-shirt & Accessories </h2>
+</section>
+
+<section id="product1" class="section-p1">
+
+    <h2>New Arrivals</h2>
+    <p>Summer collection</p>
+     
+    <div class="pro-container">
+        <div class="pro">
+            <img src="product1.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product2.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product3.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product 4.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product5.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="product6.jpeg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="productnew.jpg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="n3.jpg" alt="">
+            <div class="des">
+                <span>gildon</span>
+                <h5>Full Sleeve tshirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>&#8377; 205</h4>
+            </div>
+            <a href="#"> <i class="fa-solid fa-bag-shopping cart"></i></a>
+        </div>
+        
+    </div>
+
+
+
+
+
+
+</section>
+
+<section id="sm-banner" class="section-p1">
+    <div class="banner-box">
+       <h4>Crazy deal</h4>
+       <h2>but 1 get 1 free </h2>
+       <span>The best classic dress is on sale at bhanukart </span>
+       <button class="normal">Learn More</button>
+        
+    </div>
+
+    <div class="banner-box box2">
+        <h4>spring/summer</h4>
+        <h2>upcoming season</h2>
+        <span>The best classic dress is on sale at bhanukart </span>
+        <button class="normal">Collection</button>
+         
+     </div>
+
+</section>
+
+<section id="newsletter" class="section-p1 section-m1">
+    <div class="newstext">
+        <h4>Sign Up For Newsletter</h4>
+        <p>Get E-mail updates about out latest shop and <span>special offers.</span> </p>
+    </div>
+   
+    <div class="form">
+        <input type="text" placeholder="Your email address"> </input>
+        <button class="normal">Sign Up</button>
+</div>
+
+
+</section>
+
+<footer class="section-p1">
+    <div class="col">
+        <img class="logo"  src="logo.png">
+        <h4>contact</h4>
+        <p><strong>Address:</strong> 123, xyz, xyz, xyz</p>
+        <p><strong>phone:</strong> +91 7696265591</p>
+        <div class="follow">
+            <h4>follow us</h4>
+            <div class="icon">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-pinterest-p"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
+         </div>
+        
+    </div>
+    
+
+    <div class="col">
+        <h4>About Us</h4>
+        <a href="#">About us</a>
+        <a href="#">Privacy policy</a>
+        <a href="#">Terms & condition</a>
+        <a href="#"> Contact Us</a>
+    </div>
+    
+    <div class="col">
+        <h4>My Account</h4>
+        <a href="#">Sign In</a>
+        <a href="#">My Cart</a>
+        <a href="#">My Wishlist</a>
+        <a href="#"> Track My order </a>
+        <a href="#"> Help </a>
+    </div>
+
+    
+
+    <div class="col install">
+        <h4>Install App</h4>
+        <p>From App Store or Google Play</p>
+
+         <div class="row">
+            <img src="app.jpg" alt="">
+            <img src="play.jpg" alt="">
+         </div>
+
+         <p>Secured Payment Gateway</p>
+
+         <img src="pay.png">
+
+    </div>
+
+      
+    <div class="copyright">
+        <p> &#169; 2024, Bhanukart - HTML CSS Ecommerce Templete </p>
+    </div>
+ 
+</footer>
+
+</body>
+</html>
